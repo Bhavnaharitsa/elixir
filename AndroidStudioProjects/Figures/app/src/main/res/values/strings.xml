@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Figures</string>
+    <string name="veryseverelyaffected">very severely affected</string>
+    <string name="affected">affected</string>
+    <string name="normal">normal</string>
+    <string name="healthy">healthy</string>
+    <string name="veryhealthy">veryhealthy</string>
+    <string name="overweight">overweight</string>
+    <string name="underweight">underweight</string>
+    <string name="obese">obese</string>
+    <string name="severelyobese">severelyobese</string>
+</resources>
